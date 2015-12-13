@@ -1,0 +1,6 @@
+c:\users\flicka\documents\visual studio 2015\Projects\2_zadatak\2_zadatak\bin\Debug\2_zadatak.exe.config
+c:\users\flicka\documents\visual studio 2015\Projects\2_zadatak\2_zadatak\bin\Debug\2_zadatak.exe
+c:\users\flicka\documents\visual studio 2015\Projects\2_zadatak\2_zadatak\bin\Debug\2_zadatak.pdb
+c:\users\flicka\documents\visual studio 2015\Projects\2_zadatak\2_zadatak\obj\Debug\2_zadatak.csprojResolveAssemblyReference.cache
+c:\users\flicka\documents\visual studio 2015\Projects\2_zadatak\2_zadatak\obj\Debug\2_zadatak.exe
+c:\users\flicka\documents\visual studio 2015\Projects\2_zadatak\2_zadatak\obj\Debug\2_zadatak.pdb
